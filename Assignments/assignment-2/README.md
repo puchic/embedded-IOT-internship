@@ -1,6 +1,6 @@
 # LED Fading using Software PWM (Arduino)
 
-(https://www.tinkercad.com/things/eoUk40moL7c-assignment2?sharecode=AJGg30IHb3Yb16a7WjMn5xAxs6q4GHInlN0Db4403L8)[view tinkercad]
+[view tinkercad]("https://www.tinkercad.com/things/eoUk40moL7c-assignment2?sharecode=AJGg30IHb3Yb16a7WjMn5xAxs6q4GHInlN0Db4403L8")
 
 ---
 
@@ -36,7 +36,7 @@ Component	Arduino Pin
 LED Anode (+)	Digital Pin 9
 LED Cathode (−)	GND (via 220Ω resistor)
 
-![diagram]("./img.png")
+![diagram]("img.png")
 
 
 ---
